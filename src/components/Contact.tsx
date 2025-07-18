@@ -61,10 +61,14 @@ export default function Contact() {
                     Download my resume to learn more about my experience, skills, and projects.
                   </p>
                   
-                  <button className="w-full bg-yellow-400 text-black px-6 py-3 rounded-lg font-semibold hover:bg-yellow-300 transition-colors duration-300 transform hover:scale-105 flex items-center justify-center gap-2">
+                  <a
+                    href="/resume.pdf"
+                    download
+                    className="w-full bg-yellow-400 text-black px-6 py-3 rounded-lg font-semibold hover:bg-yellow-300 transition-colors duration-300 transform hover:scale-105 flex items-center justify-center gap-2 text-center"
+                  >
                     <Download className="w-5 h-5" />
                     Download Resume (PDF)
-                  </button>
+                  </a>
                   
                   <div className="border-t border-gray-700 pt-4">
                     <p className="text-sm text-gray-400 mb-4">
