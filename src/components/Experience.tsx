@@ -6,8 +6,8 @@ export default function Experience() {
     {
       title: "DevOps & Full Stack Intern",
       company: "Linux World",
-      duration: "45 days",
-      location: "Remote",
+      duration: "60 days",
+      location: "GD Badaya auditorium, mansrovar, Jaipur",
       description: "Worked extensively with Docker, Jenkins, and Python to deploy real-world automation tools. Gained hands-on experience with containerization, CI/CD pipelines, and infrastructure automation through immersive project-based learning.",
       achievements: [
         "Built and deployed multiple Docker containers for web applications",
@@ -18,8 +18,8 @@ export default function Experience() {
     {
       title: "AWS Cloud Intern",
       company: "REGEX Software Services",
-      duration: "2 months",
-      location: "Remote",
+      duration: "60 days",
+      location: "GopalPura bypass, Jaipur",
       description: "Built a comprehensive real-time Helmet Detection System using various AWS services. Applied cloud computing principles in live deployment scenarios with focus on scalability and security.",
       achievements: [
         "Implemented real-time helmet detection using EC2 and Lambda",
@@ -30,7 +30,7 @@ export default function Experience() {
     {
       title: "AWS Cloud Practitioner Labs",
       company: "AWS Skill Builder",
-      duration: "Ongoing",
+      duration: "3 days",
       location: "Online",
       description: "Hands-on experience with IAM, EC2, Auto Scaling, Monitoring, and various deployment scenarios. Completed multiple lab exercises focusing on real-world AWS implementations.",
       achievements: [
@@ -42,8 +42,8 @@ export default function Experience() {
     {
       title: "Frontend Developer Intern",
       company: "Reboot Cell",
-      duration: "1 month",
-      location: "Remote",
+      duration: "30 days",
+      location: "Pratap Nagar, murlipura, Jaipur",
       description: "Created a comprehensive multi-page HTML/CSS camera-themed website during early engineering phase. Focused on responsive design and user experience optimization.",
       achievements: [
         "Developed responsive multi-page website from scratch",
